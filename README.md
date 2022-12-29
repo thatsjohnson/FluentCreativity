@@ -1,2 +1,2 @@
 # FluentCreativity
-My personal page
+Static page for fluent creativity
